@@ -1,3 +1,4 @@
+#This program will shutdown the computer when a certain temperature is reached. 
 import clr
 import os
 import time
